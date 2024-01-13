@@ -1,4 +1,4 @@
-WELCOME TO APPSTER! :D
+WELCOME TO APPSTER!
 
 - admin login info: 
   Username: admin
